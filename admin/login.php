@@ -64,7 +64,7 @@
                 <input type="password" name="password" placeholder="1111111111111" id="password" required>
 
                 <button type="submit" class="btnadd login" name="login">Login</button>
-                <button type="button" class="btnadd cancel">Password inccorect</button>
+                
             </form>
            </div>
         </div>
