@@ -225,7 +225,7 @@ require 'addCart.php';
             <label for="nav-toggle">
                 <span class="las la-bars"></span>
             </label>
-            Dashbord
+            
           </h2>
           <div class="search-wrapper">
               <form action="home.php" method="POST">
